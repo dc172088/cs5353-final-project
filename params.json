@@ -1,0 +1,9 @@
+{
+  "train_loop_config": {
+    "batch_size": 256,
+    "embedding_size": 8,
+    "intermediate_size": 22,
+    "lr": 0.002977882069228963,
+    "num_features": 33
+  }
+}
